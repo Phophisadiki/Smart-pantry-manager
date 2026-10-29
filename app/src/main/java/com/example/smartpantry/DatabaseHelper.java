@@ -1,4 +1,4 @@
-gitpackage com.example.smartpantry;
+package com.example.smartpantry;
 
 import android.content.ContentValues;
 import android.content.Context;
